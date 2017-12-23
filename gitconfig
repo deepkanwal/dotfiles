@@ -1,0 +1,12 @@
+[alias]
+	co = checkout
+	br = branch
+	st = stash
+	s = status
+	c = commit
+	undo = reset --soft HEAD~1
+	reset = reset --hard HEAD~1
+
+# Use separate file for local config (e.g. username)
+[include]
+        path = ~/.gitconfig.local

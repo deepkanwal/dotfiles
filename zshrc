@@ -1,0 +1,1 @@
+/Users/deep/dotfiles/zshrc

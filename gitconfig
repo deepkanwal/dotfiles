@@ -7,6 +7,3 @@
 	cm = commit -m
 	undo = reset --soft HEAD~1
 	reset = reset --hard HEAD~1
-[user]
-	email = deepkanwal@gmail.com
-	name = deepkanwal
